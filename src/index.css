@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Bricolage Grotesque", "Trebuchet MS", sans-serif;
+  --font-sans: "Figtree", "Segoe UI", system-ui, sans-serif;
+
+  --color-espuma: #f2f8f7;
+  --color-mar: #0a3a47;
+  --color-jato: #12a5b8;
+  --color-cera: #f5b700;
+  --color-asfalto: #1d2a30;
+}
+
+body {
+  @apply bg-espuma text-asfalto font-sans antialiased;
+}
