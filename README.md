@@ -10,7 +10,7 @@ Roteamento de páginas e uso de contexto.
 | Caua Bertini| 570451 |
 | Lucas Costa | 571016 |
 | Henrique Soares | 573618 |
-| Lucas Fortunato | 572680 |
+| Lucas Fortunato | 572860 |
 
 ## Repositório
 
